@@ -24,4 +24,5 @@ Run "set FLASK_APP=server.py" to let venv know which application is Flask main a
 to run server, run command "flask run --host 0.0.0.0"
 
 &nbsp;**DATABASE**
-thats all done, the create script is in the DatabaseConfig file to show the create table statements used and how the database was laid out
+
+&nbsp;thats all done, the create script is in the DatabaseConfig file to show the create table statements used and how the database was laid out
