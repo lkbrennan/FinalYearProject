@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fyp-ocr-project",
+  "private_key_id": "29e2e21073df3e3f4be6a5ed9342362b94f31a5b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDBK0KjixcT9AUf\nmOpTeSym3UwxZxizvTlwqNouU0Pxky+6QANhuGYfXzuYN003EXWD1fKx3zk43mjD\nIrAdr7yLUqamEqTI9jNUvukNfI0Wru4aN0DmAAjREqMhLcjvlLQlxOX5GXle4Jh7\nU0zAuDzVBiV3hza4+Mx2NIUKRHb2hj5Mu5zCPLuANSZV29PsRdharPMYKWU5CWwV\nfiQ8g4oX7mSxyvpYh5vKNG8PLVd0gscdZyfT/4TT0Tlv9FAqetOZzv+pHNdPIhWx\nbrix6hQN1ZzQi8XLrtkjk/pbQJ3mo+7isWqzOnbqig+6b4Kh91iTfqvO0y5fTJjR\nIkT77E1lAgMBAAECggEABYQ0CbIrmLD+Ar/95tbtwoNMyLvRs3zpeE7g/6H2iOdv\nSxB9yDtZKYmfHxBq81/JRA9GypgryFAeQOxZGlkSkum0nqJd88asJyvWQWYzB4+E\nwFl6vftR+/6CsBoFDWp7TWcbX1Qt6G0CaS/FYBHZt3Q8exs52LK8gueqfGVKtZGJ\nq1VU9OuUhNLSxdkrB9F7W3Mfos0iyZ6Cbenvv9Q/8OmBjgGaqyjNaQazJkjeUXiU\n5npxNSHjjhN2RUP4M44OPdIa85skUlpO9IdF+MWF3ptWjCBDg9pc3z2df5b3a+sh\nQ8/t5+XPENkgTjbXRg48DDT+KLUKKT77vWcPtVg3oQKBgQD1gv5HonmalDzi7tR5\nc1pz5CgQ5vq2X9cFCyfQWJHbmzTB8BlKNeIquDIr0AkzvWzhtyTe6mUdvTDFy2fc\nLuU0xyU2+7ZjnlAteju/J66juF5l7K3Jz6+KUC0fX9pab2Jko3IVf4PrzWPtakfj\nm3qUslt6pOlmEFKgHke5H+qKvQKBgQDJa9PrtSxuTjYvBw3MfjQZH8qNoZJHTDrv\nYAfmLtzJAETqSGxxIUrLJ+sQSYPEMaM9hNT/rJ+kqk+9vQ8Ec7ksQR4FuOWSnUB7\n08jwMYdiFzNoSJrLaQfJeiH9xnCUUhK8KVDhMbhJmjiPKmvtOJQLFU4XjE++Q8KO\ne3vMgKBLyQKBgQDgRlW7YrTrfNdSBxKaD8Jlc9sV9aq5xztJJDOuo/o6PsInGApC\nPI7qr3FFjLmbRkOcvg00hbLxQ862IWYzQbOoTvO0EqU+w3RC1xKVQM7MSLQTL+5i\nGRMmqq9NpeZ2DqI3hQfGk8ITOoE6dIhPZ8zG4Ven5dZAolCYbJDgkENVkQKBgQDA\n74B3b3u3zUMpmOAm2VyeFE25jOLJWMO7N4lZe9oQzyk0IVt+oh06rGoFl+WXsNRk\nwTAmF/xzhpALd2VDJnZhZZ6UbJ+66NYzxpHbQhYkZ4Teh21/GoRTAaI9rC96Y4N+\nqTTIARA9sHQs7r2i5WcplqbO96AK6G0cfjv/j9X7wQKBgEXS5e2MZ8jR5i5F0vX3\nQmAko0eqL6ZDT7/6czuAWkUIDy0id6mPAJADIqw/VuIy6mEkJcP8ZOMeTtqaVcFh\nlwQ3mUWXZ8J3CUDYOWKDTMEFLz73mRu7tSxVEOO0GYnInuPPwBwsy6tPiriFdegC\nYkN9nnzyN10WSSP4Q2cDzBn5\n-----END PRIVATE KEY-----\n",
+  "client_email": "fyp-project@fyp-ocr-project.iam.gserviceaccount.com",
+  "client_id": "113104768586586335574",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fyp-project%40fyp-ocr-project.iam.gserviceaccount.com"
+}
